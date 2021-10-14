@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "name": "tictactoe",
+  "homepage": "https://aronkleinhans.github.io/tictactoe/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
